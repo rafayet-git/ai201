@@ -1,0 +1,192 @@
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Google Pixel 9a review
+3. Our lab tests - display, battery life, charging speed, speaker
+Google Android
+Display
+The Pixel 9a has a slightly larger display than the Pixel 8a. At 6.3 inches in diagonal, it aligns
+with what the regular Pixel 9 offers. The resolution is the same at 1080x2424 pixels as well.
+This results in a crisp pixel density of around 422 ppi. Just like the Pixel 9, the Pixel 9a
+advertises 1,800 nits of whole display brightness in high brightness mode and a peak of 2,700
+nits.
+We did our standardized measurements and got great figures for the Pixel 9a: 1,248 nits by
+maxing out the slider and a whopping 1,930 nits in max auto mode. While this is a great result
+and one that ranks very high in the brightness charts for this price category, it is worth noting
+that the Pixel 9 and Pixel 9 Pro still managed notably higher values in our testing. Even so, the
+Pixel 9a has more than enough brightness to be perfectly usable even in direct sunlight.
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Max display brightness test
+White test pattern, 75% fill (nits)
+Manual mode Auto mode
+Mitsubishi shows the Eclipse Pixel 9 Pro
+Sportback, which looks very familiar 6.3" LTPO OLED 1280 x 2856 px
+Pixel 9
+driving, adaptive beam headlights
+through new update 6.3" OLED 1080 x 2424 px
+Apple introduces new CarPlay features
+Pixel 9a
+with iOS 27, video apps to be allowed
+6.3" pOLED 1080 x 2424 px
+Pixel 8a
+6.1" OLED 1080 x 2400 px
+Poco F7 Pro
+6.67" AMOLED 1440 x 3200 px
+Pixel 8
+6.2" LTPO OLED 1080 x 2400 px
+Edge 60
+Fusion 6.67" LTPO OLED 1220 x 2712 px
+Just like the Pixel 9, the Pixel 9a has a 120Hz maximum refresh rate. Google doesn't let users
+mess about too much with the refresh rate. There is just a single Smooth display toggle in the
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+settings menu. Once enabled, you enter an automatic mode where the phone decides which
+content to use a high refresh rate for and which not to. Your only other option is to have the
+toggle off and be stuck at a constant 60Hz.
+While the phone is pretty happy to boost to 120Hz for most apps and the UI in general, we
+had very little success getting games to run above 60fps. So, keep that in mind.
+The Pixel 9a has some HDR support on its display, though Google does not specify exactly
+what kind. On a software level, the phone reports being capable of decoding HDR10, HDR10+
+and HLG, but there is no Dolby Vision. There is also support for the highest possible L1
+Google Widevine DRM certification.
+Battery life
+The Pixel 9a has the largest battery out of any Pixel thus far at 5,100 mAh. We ran our usual
+battery tests and got some solid results. The Tensor G4 seems to be doing quite alright for
+itself all around, perhaps with the exception of call endurance. But that's something this chip is
+known to struggle with.
+Google Pixel 9a
+12:42h 25:05h 11:02h
+14:29h 8:44h
+ACTIVE USE SCORE
+GSMARENA MIX
+CALLS WEB VIDEO GAME
+Battery tests automated via the viSer app by
+Google
+Pixel 9a
+5100 mAh
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+12:42h TIP US 2.1M 160K RS S EV MER CH L OG IN S IGN UP
+25:05h 11:02h 14:29h 8:44h
+Google
+Pixel 9 13:05h
+4700 mAh 26:26h 11:35h 15:21h 8:33h
+Google
+Pixel 8a 11:25h
+4492 mAh 23:04h 10:11h 13:31h 7:21h
+Samsung
+Galaxy A56 12:08h
+5000 mAh 34:02h 12:27h 16:22h 5:52h
+Xiaomi
+Poco F7 Pro 13:51h
+6000 mAh 40:41h 14:02h 16:38h 7:11h
+Motorola
+Edge 60 Fusion 14:18h
+5200 mAh 27:24h 13:08h 19:02h 8:20h
+Nothing
+Phone (3a) Pro 13:37h
+5000 mAh 38:02h 10:51h 18:43h 8:10h
+Active use score
+Our new Active Use Score is an estimate of how long the battery will last if you use the device
+with a mix of all four test activities. You can adjust the calculation based on your usage pattern
+using the sliders below. You can read about our current battery life testing procedure here. For
+a comprehensive list of all tested devices so far, head this way.
+Charging speed
+The Pixel 9a supports up to 23W USB-PD fast charging and up to 7.5W Qi-wireless charging.
+Since the phone doesn't come with a charger, we had to source one ourselves for testing. We
+used a 30W Google-branded PD charger.
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Charging speed
+in 15 min in 30 min Time to full charge
+(from 0%)
+Poco X7 Pro
+6000 mAh 90W Xiaomi HyperCharge
+Galaxy A56
+5000 mAh 45W PowerDelivery
+Pixel 9 Pro
+4700 mAh 45W PD
+Galaxy S24
+4700 mAh 25W PD
+Pixel 9
+4700 mAh 45W PD
+Pixel 9a
+5100 mAh 23W USB-PD
+Pixel 8a
+4492 mAh 18W PD
+The Pixel 9a's charging rate is anything but fast. The phone takes over an hour and a half to
+show a 100% charge rate and over two hours for a true, complete charge. This is not a phone
+you charge in a hurry; if you're charging overnight anyway, you don't need to be fussy about
+what type of charger you're using.
+The Pixel 9a has a pretty simple yet surprisingly robust set of charging protection features.
+These are under the Charging optimization umbrella. The default mode is Adaptive charging,
+which learns your routine and makes sure that your phone only fully charges shortly before it
+is unplugged. That ensures the battery doesn’t spend unnecessary time at 100% charge,
+which is detrimental to it. Then, there is also the option to limit the maximum charge
+percentage to 80%, which is a different approach to achieving a similar goal of protecting
+battery health.
+Speakers - loudness and quality
+The Pixel 9a has a stereo speaker system of the hybrid variety. There is a dedicated bottom-
+firing speaker, and the other channel is handled by an amplified, front-facing earpiece. This
+innately brings some imbalance to the sound output, but it's not that bad in practice.
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+The Pixel 9a has a pretty good loudness, managing a Good loudness score in our testing.
+That's about on par with the Pixel 8a but not as loud as the vanilla Pixel 9. The quality of the
+sound is good, with clean and clear mids. Not too much highs or bass, though.
+0:00 /5:16
+Song 1 Song 2 Song 3 Song 4 Song 5 Song 6 Song 7
+-27.2 LUFS
+Google
+Pixel 9a
+GOOD LOUDNESS SCORE
+-25.0 LUFS
+Google
+Pixel 9
+VERY GOOD LOUDNESS SCORE
+-26.2 LUFS
+Samsung
+Galaxy A56
+GOOD LOUDNESS SCORE
+-25.2 LUFS
+Xiaomi
+Poco F7 Pro
+VERY GOOD LOUDNESS SCORE
++
+Add to comparison
+Speaker frequency response
+30dB
+20dB
+10dB
+0dB
+-10dB
+-20dB
+-30dB
+50Hz 500Hz 5000Hz
+100Hz 1000Hz 10000Hz
+Google Pixel 9a Google Pixel 9 Samsung Galax… Xiaomi Poco F7…
+Google Pixel 9a review: Our lab tests - display, battery life, c...
+Google Pixel 9a Google Pixel 9 Samsung Galax… Xiaomi Poco F7…
+Use the Playback controls to listen to the phone sample recordings (best use headphones).
+We measure the average loudness of the speakers in LUFS. A lower absolute value means a
+louder sound. A look at the frequency response chart will tell you how far off the ideal "0db" flat
+line is the reproduction of the bass, treble, and mid frequencies. You can add more phones to
+loudspeaker test. Learn more about how we test here.
+Connectivity
+The Pixel 9a takes a single nano-SIM card but also has eSIM support so you could use it as
+Dual SIM like that. It has SA/NSA Sub-6 5G support. Location services are handled by dual-
+band GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS and NavIC. For Wi-Fi connectivity, the
+phone has Wi-Fi 6e. Depending on your market, you will get either dual-band Wi-Fi or tri-
+band, with support for the 6GHz spectrum. On board, Bluetooth is version 5.3 with LE support.
+There is NFC on board as well. No 3.5mm audio jack or FM radio, though.
+The USB port on the Pixel 9a is officially a USB 3.2. That is not terribly descriptive regarding
+speed, but from our testing, the maximum transfer speed seems to be 5 Gbps. This is not too
+bad for a phone, in our opinion. There is OTG/Host support on the port as well as video output
+over USB Alt mode.
+The Pixel 9a has a full set of sensors on board. There is an STMicro LSM6DSV accelerometer
+and gyroscope combo, a MEMSIC MMC5616 magnetometer and compass combo, and an
+AMS TMD3733 light and hardware proximity sensor. There is even a Geomicro SPL07003
+barometer on board.
+NEXT PAGE » 4. Software and performance
+3. Our lab tests - display, battery life, charging speed, speaker
+Reviews Google Pixel 9a review Page 3
+PIXEL 9A USER REVIEWS COMMENTS (108)

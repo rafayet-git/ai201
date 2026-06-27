@@ -1,0 +1,162 @@
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+ PHONE FINDER GSMArena Team, 30 April 2025 
+SAMSUNG XIAOMI ULEFONE INFINIX
+APPLE GOOGLE ALCATEL ASUS
+HUAWEI HONOR ZTE TECNO
+NOKIA OPPO RUGONE DOOGEE
+SONY REALME UMIDIGI BLACKVIEW
+LG ONEPLUS COOLPAD CUBOT
+HTC NOTHING OSCAL OUKITEL
+Google Pixel 9a review
+MOTOROLA VIVO SHARP ITEL
+LENOVO MEIZU MICROMAX TCL
+ ALL BRANDS  RUMOR MILL  4.0 PIXEL 9A USER REVIEWS COMMENTS (108)
+5. Camera, photo and video quality
+POPULAR REVIEWS
+Google Android
+A solid dual-camera setup
+The Pixel 9a only has two rear cameras with which to work. These are nothing special in
+XIAOMI 17T PRO REVIEW
+terms of hardware, but it is well-known that Google's prowess lies in computational
+photography.
+SONY XPERIA 1 VIII REVIEW
+XIAOMI 17T REVIEW
+ELECTRIC VEHICLES
+The rear camera setup consists of a 48MP main camera and a 13MP fixed-focus ultrawide.
+On the front, there is a 13MP fixed-focus selfie. While the main camera is new this year, the
+ultra-wide and front cameras have been borrowed from last year's Pixel 8a. The new main
+camera is brighter and wider than last year.
+Google has never been particularly forthcoming about the exact sensors it uses. This is also
+true for the Pixel 9a.
+› Wide (main): 48MP (1/2.0", 0.8µm), f/1.7, 25mm, dual pixel PDAF, OIS; 4K@60/30fps
+1 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+2 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+3 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+4 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+5 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+6 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+› Ultrawide: 13MP (1.12µm), f/2.2, 16mm, fixed focus; 4K@30fps
+› Front camera: 13MP (1.12µm), f/2.2, 20mm, fixed focus; 4K@30fps
+Even without precise sensor information, we still managed to ascertain the basic specs of
+each camera. As we already said, the new man cam is both brighter and wider than the one
+on the Pixel 8a. It has a 1/2.0" diagonal and 0.8µm pixels.
+Mitsubishi shows the Eclipse The other two cameras are quite familiar to us from last year.
+Sportback, which looks very familiar
+The Pixel 9a lacks some advanced features in the pricier Pixel models. There's no Pro mode,
+Lucid Gravity gets hands-free highway and manual controls are quite limited, though RAW image capture is still available. Oddly,
+driving, adaptive beam headlights support for the Display P3 color space and HDR video capture has been dropped despite both
+through new update
+being available on the Pixel 8a. However, Ultra HDR support for photos is still included.
+Apple introduces new CarPlay features
+with iOS 27, video apps to be allowed
+7 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+The camera app itself is clean but can feel unintuitive, especially if you're used to other
+brands. You can't swipe up or down to access extra settings. Instead, there are two separate
+settings buttons, which can be confusing to use quickly. Video recording isn't just another
+mode but has its own dedicated toggle.
+Perhaps the most jarring design choice is the UI layout: with all controls placed at the bottom,
+the shutter button ends up unusually high, which can throw off your muscle memory if you're
+switching from a different phone.
+Daylight photo quality
+Main camera
+The main camera on the Pixel 9a delivers impressive image quality, capturing sharp details
+and natural, true-to-life colors across most lighting conditions. It's a reliable shooter that
+consistently produces great results. Thanks to the Ultra HDR feature, photos pop on the
+phone's HDR display, though the effect is hard to convey outside the device.
+Google Pixel 9a: 12MP main camera samples
+The Pixel 9a does a great job of portraits. Interestingly enough, the phone insists that the
+portraits should always use at least a bit of digital zoom. The default presets are 1.5x and 2x.
+Still, the quality looks great. Faces come out natural with plenty of skin texture and a good
+complexion. Subject detection and separation are nearly perfect, and so is the quality of the
+background blur.
+8 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+Google Pixel 9a: 12MP main camera portrait samples
+The Pixel 9a doesn't include a dedicated telephoto lens, so all zooming is handled digitally
+through the main sensor. There's a convenient 2x zoom shortcut in the camera app, and you
+can zoom manually up to 8x.
+At 2x, image quality holds up well. While not captured at native resolution, the results are
+perfectly usable and only show their limitations upon close inspection. However, once you go
+beyond 2x, image clarity noticeably drops.
+Google Pixel 9a: 12MP main camera 2x zoom samples
+A pleasant surprise is the camera's built-in macro capability. The new main sensor has a very
+close focusing distance, allowing for detailed close-up shots without switching to a special
+mode. Just bring the phone close to your subject, and it'll automatically recognize and capture
+it as a macro shot. You can even engage the 2x zoom to get even closer digitally, and the
+results are genuinely impressive.
+Google Pixel 9a: 12MP main camera macro samples
+Ultrawide camera
+9 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+The ultra-wide camera does a solid job in good lighting. Detail and color remain consistent
+with the main sensor, which is something not all competitors manage to achieve. That said,
+sharpness falls off around the edges, and image quality dips more noticeably in lower light.
+Google Pixel 9a: 12MP ultrawide camera samples
+Interestingly enough, just like the main camera, the ultrawide also saves its shots in exactly
+12MP resolution.
+Selfie camera
+Selfies are solid through and through. There is plenty of detail and great natural colors. The
+focal depth is nice and forgiving, so the fixed focus doesn't matter that much.
+Google Pixel 9a: 12MP selfie camera samples
+Another interesting development is that the selfies aren't exactly 12MP or 13MP, but they are
+just over 12MP in resolution.
+Low-light camera quality
+10 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+The main camera captures excellent low-light stills. These have an impressive amount of
+detail and practically no noise. The colors look great as well. Both shadows and highlights are
+handled very well, and light sources are well-contained. Honestly, we have no real complaints
+about these shots.
+Google Pixel 9a: 12MP main camera low-light samples
+The Pixel 9a has an automatic night mode, which it triggers adequately depending on the
+conditions. You can also manually trigger it using the "Night sight" camera mode. Here are
+some shots from the main camera with forced night mode just to show that there is not a lot of
+difference and that the phone does automatic night mode perfectly fine on its own.
+Google Pixel 9a: 12MP main camera Night sight samples
+At 2x zoom, shots look just a bit softer than their 1x equivalents. A tiny bit of noise creeps up
+in the frame, but it's really nothing to fret about. Otherwise, the quality remains excellent.
+Google Pixel 9a: 12MP main camera low-light 2x zoom samples
+The ultrawide camera struggles quite badly in low-light conditions. Its images are soft and
+blurry, with not a lot of detail and blown-out light sources. They are still usable, but once you
+start pixel-peeping, it all falls apart.
+Google Pixel 9a: 12MP ultrawide camera low-light samples
+Forcing Night Sight on doesn't really help much. Here are some shots with it manually turned
+on.
+Google Pixel 9a: 12MP ultrawide camera Night sight samples
+Low-light selfies are decent, but there is nothing to phone home about. Some skin texture is
+coming through, and skin tones look natural. However, fine details are blurry more often than
+not.
+11 of 12 6/9/26, 7:24 PM
+Google Pixel 9a review: Camera, photo and video quality https://www.gsmarena.com/google_pixel_9a-review-2825p5.php
+Google Pixel 9a: 12MP selfie camera low-light samples
+Video capture quality
+The main camera can record video in 4K up to 60fps, but the ultra-wide and front cameras can
+only record 4K up to 30fps. If you want 60fps, you must drop down to 1080p on them. The
+phone saves video in HEVC/h.265 by default, but you can toggle it off and go for AVC/H.264 if
+you prefer.
+The 4K video from the main camera looks good but is a bit soft and not especially resolving
+for 4K. You do get excellent image stabilization, however, along with good colors and dynamic
+range. There are two levels of video stabilization available. The first one can be enabled at
+any resolution, while Active mode lowers the resolution to 1080p and takes its footage from
+the ultrawide camera.
+The ultra-wide video isn't very good. Even in broad daylight, there is noticeable noise in the
+image, especially in the corners. The image is also quite soft and looks more like 1080p than
+4K. There's also no 60fps support unless you drop down to 1080p, which is even softer.
+Low-light video is pretty solid on the main camera and not really impressive on the ultrawide.
+You can check out the playlist below, which includes multiple video samples.
+GSMArena samples
+Watch on
+NEXT PAGE » 6. Final words, our verdict, pros and cons
+5. Camera, photo and video quality
+Reviews  Google Pixel 9a reviewPage 5
+PIXEL 9A USER REVIEWS COMMENTS (108)
+Home News Reviews Compare Coverage Glossary FAQ RSS Youtube Instagram TikTok Facebook Twitter
+© 2000-2026 GSMArena.com Mobile version Android app Tools Contact us Merch store Privacy Terms of use
+12 of 12 6/9/26, 7:24 PM

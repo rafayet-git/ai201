@@ -1,0 +1,288 @@
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+ PHONE FINDER GSMArena Team, 05 May 2025 
+SAMSUNG XIAOMI ULEFONE INFINIX
+APPLE GOOGLE ALCATEL ASUS
+HUAWEI HONOR ZTE TECNO
+NOKIA OPPO RUGONE DOOGEE
+SONY REALME UMIDIGI BLACKVIEW
+LG ONEPLUS COOLPAD CUBOT
+HTC NOTHING OSCAL OUKITEL
+Nothing CMF Phone 2 Pro review
+MOTOROLA VIVO SHARP ITEL
+LENOVO MEIZU MICROMAX TCL
+ ALL BRANDS  RUMOR MILL  3.9 CMF PHONE 2 PRO USER REVIEWS COMMENTS (107)
+3. Our lab tests - display, battery life, charging speed, speaker
+POPULAR REVIEWS
+Nothing CMF Android
+Display
+The CMF Phone 2 Pro has a large 6.77-inch AMOLED display. It comes with 10-bit colors,
+XIAOMI 17T PRO REVIEW
+HDR10+ support and 120Hz refresh rate. The manufacturer advertises some pretty solid
+brightness figures for the panel: 800 nits of typical brightness, 1300 nits of full display peak,
+and a 3000-nit spot peak.
+SONY XPERIA 1 VIII REVIEW
+XIAOMI 17T REVIEW
+ELECTRIC VEHICLES
+We did our usual testing and can confirm it's an excellently bright panel, especially
+considering the phone's price bracket. We measured 702 nits by maxing out the manual slider
+and 1,255 nits of peak brightness in auto mode. While not winning any awards, the display is
+certainly bright enough to be comfortable outdoors.
+Max display brightness test
+White test pattern, 75% fill (nits)
+1 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+2 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+3 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+4 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+5 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+6 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+Manual mode Auto mode
+Redmi Note
+111111111555555555000000000000000000
+14 Pro 4G
+6.67" AMOLED 1220 x 2712 px
+Nothing 111111111333333333000000000777777777
+phone (3a)
+Mitsubishi shows the Eclipse Pro 6.77" AMOLED 1080 x 2412 px
+Sportback, which looks very familiar
+Nothing
+111111111222222222777777777333333333
+Lucid Gravity gets hands-free highway
+phone (3a)
+driving, adaptive beam headlights 6.77" AMOLED 1080 x 2412 px
+through new update
+111111111222222222666666666555555555
+Apple introduces new CarPlay features Poco X7 Pro
+with iOS 27, video apps to be allowed 6.67" AMOLED 1220 x 2712 px
+Nothing CMF
+111111111222222222555555555999999999
+Phone 1
+6.67" Super AMOLED 1080 x 2400 px
+CMF Phone
+111111111222222222555555555555555555
+2 Pro
+6.77" AMOLED 1080 x 2392 px
+Redmi Note
+111111111222222222000000000000000000
+14 Pro+
+6.67" AMOLED 1220 x 2712 px
+
+EXPAND
+The CMF Phone 2 Pro display offers 10-bit color support, an upgrade over the CMF Phone 1.
+There are two color modes to choose from in settings - alive and standard. The former targets
+the DCI-P3 color space, while the latter goes for sRGB.
+Another thing the CMF Phone 2 Pro brings to the table is official HDR10+ support. It is backed
+up by HDR10, HDR10+ and HLG decoder support. Just no Dolby Vision. The phone also
+supports the highest possible Widevine L1 DRM protection.
+The CMF Phone 2 Pro has 120Hz maximum refresh rate. The phone toggles between 30Hz,
+60Hz, 90Hz and 120Hz and unlike the CMF Phone 1, which has two refresh rate modes in
+settings, the CMF Phone 2 Pro has three.
+7 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+One just locks the display to 60Hz, while the other two offer automatic refresh rate switching
+and are practically identical in behavior. The adaptive mode seems to opt for 90Hz operation a
+little more often than the High mode. We never actually saw the phone drop down to 30Hz.
+The lowest it seems to want to go is 60Hz, either when you are not interacting with it and
+nothing is happening on screen, or during video playback. It is not the most sophisticated
+system, but it works okay.
+We tried some high refresh rate gaming, but with little success. Most titles we ran refused to
+go over 60Hz mode, regardless of the display settings we used.
+Battery life
+The CMF Phone 2 Pro has a 5,000 mAh battery on board. Its Active Use Score is very solid at
+over 14 hours. The call endurance and video streaming endurance are particularly impressive.
+Nothing CMF Phone 2 Pro 5G
+ 
+14:38h 45:22h 12:59h
+ 
+18:58h 8:00h
+ACTIVE USE SCORE
+GSMARENA MIX
+ CALLS  WEB  VIDEO  GAME
+Battery tests automated via the viSer app by
+Nothing
+   
+CMF Phone 2 Pro 14:38h
+5000 mAh 45:22h 12:59h 18:58h 8:00h
+Nothing
+   
+CMF Phone 1 16:13h ❌
+5000 mAh 33:20h 12:48h 24:55h 9:54h
+Xiaomi
+   
+Poco X7 Pro 12:43h ❌
+6000 mAh 23:44h 11:09h 16:20h 8:02h
+Xiaomi
+Redmi Note 14 Pro    
+11:39h ❌
+5G
+31:40h 10:38h 11:42h 7:48h
+5110 mAh
+Samsung
+Galaxy A26 ❌
+5000 mAh
+8 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search
+10:44hTIP US 2.1M160K RSS EV MERCH LOG IN SIGN UP
+27:24h 8:18h 12:24h 7:50h
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER Active uDsEeA LsScore MERCH COVERAGE CONTACT
++
+Add to comparison
+In terms of battery care features, the CMF Phone 2 Pro offers a Battery Saver feature that can
+limit charging to 90% or charge on a schedule. There is also something called Sleep Standby
+Optimization, which limits network connectivity and applies other battery-saving features while
+you are sleeping.
+ Our new Active Use Score is an estimate of how long the battery will last if you use the device
+with a mix of all four test activities. You can adjust the calculation based on your usage pattern
+using the sliders below. You can read about our current battery life testing procedure here. For
+a comprehensive list of all tested devices so far, head this way.
+Charging speed
+The CMF Phone 2 Pro supports 33W "Fast Charging" (wireless charging is not supported). As
+with all Nothing phones, no charger is included in the box.
+Nothing doesn't offer any particular description of exactly what protocol it uses for fast
+charging. However, we can gather some clues. Like the fact that Nothing sells a 45W official
+charger that works over Power Delivery. It is meant to saturate the 45W of charging supported
+by the Nothing Phone (2) and Nothing Phone (2a). Presumably, it will also be the best match
+for the CMF Phone 2 Pro.
+We didn't have the Nothing charger at hand, so we tested with a high-quality 65W PD/QC
+universal charger. We measured a peak charging wattage of around 26W, and the CMF
+Phone 2 Pro charged at around 20W for most of the charging cycle.
+Overall, the CMF Phone 2 Pro is not particularly fast to charge. Fifteen minutes on the charger
+got us from dead to 24%, thirty minutes resulted in a 46% charge, and a full top-off took an
+hour and twenty-five minutes. You can definitely get faster-charging phone even in this price
+range nowadays.
+Charging speed
+in 15 min in 30 min Time to full charge
+9 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+(from 0%)
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+Redmi Note 111111111000000000000000000%%%%%%%%%
+HOME NEWS REVIEWS VIDEOS FEA1T4U RPErDo+ PHONE FINDER DEALS MERCH COVERAGE CONTACT
+(Global) 5110 mAh 120W Xiaomi HyperCharge
+Nothing
+555555555999999999%%%%%%%%%
+Phone (2a)
+5000 mAh 45W
+555555555111111111%%%%%%%%%
+Galaxy A26
+5000 mAh 25W PowerDelivery
+Nothing CMF
+555555555000000000%%%%%%%%%
+Phone 1
+5000 mAh 33W Fast Charging
+Galaxy A16
+444444444777777777%%%%%%%%%
+5G
+5000 mAh 25W Samsung PD
+CMF Phone
+444444444666666666%%%%%%%%%
+2 Pro
+5000 mAh 33W Fast Charging
+Redmi Note
+444444444222222222%%%%%%%%%
+14 Pro 4G
+5500 mAh 45W Xiaomi HyperCharge
+
+EXPAND
+Speakers - loudness and quality
+The CFM Phone 2 Pro only has a single bottom-firing speaker at its disposal. There is no
+hybrid stereo system or anything of the sort. The speaker isn't particularly impressive, either. It
+only managed a GOOD loudness rating in our standardized testing. On the upside it did a bit
+better than the CMF Phone 1.
+Quality-wise, it offers pretty clear mids, so voices come out sounding quite well. Highs are also
+decent, even at high volumes, without screeching or distortion. Bass is practically non-
+existent, though even more so than on the CMF Phone 1.
+  
+0:00 /5:16 
+Song 1 Song 2 Song 3 Song 4 Song 5 Song 6 Song 7
+-27.0 LUFS
+ Nothing
+CMF Phone 2 Pro
+GOOD LOUDNESS SCORE
+-28.0 LUFS
+ Nothing ❌
+CMF Phone 1
+GOOD LOUDNESS SCORE
+-24.7 LUFS
+ Xiaomi ❌
+Poco X7 Pro
+VERY GOOD LOUDNESS SCORE
+10 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Sear ch Samsung  -27.1 LTUIP UFSS2.1M 160K RSS EV MERCH LOG IN ❌SIGN UP
+Galaxy A26
+GOOD LOUDNESS SCORE
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
++
+Add to comparison
+Speaker frequency response
+30dB
+20dB
+10dB
+0dB
+-10dB
+-20dB
+-30dB
+50Hz 500Hz 5000Hz
+100Hz 1000Hz 10000Hz
+Nothing CMF Phon… Nothing CMF Phon… Xiaomi Poco X7 Pro 1/2
+ Use the Playback controls to listen to the phone sample recordings (best use headphones).
+We measure the average loudness of the speakers in LUFS. A lower absolute value means a
+louder sound. A look at the frequency response chart will tell you how far off the ideal "0db" flat
+line is the reproduction of the bass, treble, and mid frequencies. You can add more phones to
+compare how they differ. The scores and ratings are not comparable with our older
+loudspeaker test. Learn more about how we test here.
+Connectivity
+The CMF Phone 2 Pro is a dual-SIM device that simultaneously can take two Nano-SIM
+cards. It also supports simultaneous SA/NSA Sub-6 5G connectivity. The second slot is
+hybrid, and you must choose between a second SIM or a microSD memory card.
+Unfortunately, there is no eSIM support.
+11 of 12 6/9/26, 7:18 PM
+Nothing CMF Phone 2 Pro review: Our lab tests - display, bat... https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+SearTchhe phone supports GPS, GALILEO, GLONASS, BDTIP S U S and Q2.1 ZM SS1 6 f0 oK r poR sS iS tioninEV g. M LER oC cH alLOG IN SIGN UP
+connectivity is covered by dual-band Wi-Fi 6 and Bluetooth 5.3 with LE support. Depending on
+HOME NEWS REVIEWS VIDEOSyour maFrEkAeTUt,R tEhDere is NFPHCO oNEn F bINoDaERrd as welDl.E ANLoS 3.5mm MjaEcRkC Hand no FCMOV rEeRcAeGEiver, thouCgOhN.TACT
+The Type-C port is backed up by a simple USB 2.0 connection with a theoretical max transfer
+rate of 480 Mbps. There is OTG/Host support, but nothing fancier like video output.
+The CMF Phone 2 Pro has a pretty full set of sensors on board. There is an InvenSense
+icm4n607 accelerometer and gyroscope combo, an osc och1918 magnetometer and compass
+combo, and a tyhx hx32062 light and hardware proximity sensor combo. There is no
+barometer.
+NEXT PAGE » 4. Software and performance
+3. Our lab tests - display, battery life, charging speed, speaker
+Reviews  Nothing CMF Phone 2 Pro reviewPage 3
+CMF PHONE 2 PRO USER REVIEWS COMMENTS (107)
+Home News Reviews Compare Coverage Glossary FAQ RSS Youtube Instagram TikTok Facebook Twitter
+© 2000-2026 GSMArena.com Mobile version Android app Tools Contact us Merch store Privacy Terms of use
+12 of 12 6/9/26, 7:18 PM

@@ -1,0 +1,225 @@
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+ PHONE FINDER GSMArena Team, 05 May 2025 
+SAMSUNG XIAOMI ULEFONE INFINIX
+APPLE GOOGLE ALCATEL ASUS
+HUAWEI HONOR ZTE TECNO
+NOKIA OPPO RUGONE DOOGEE
+SONY REALME UMIDIGI BLACKVIEW
+LG ONEPLUS COOLPAD CUBOT
+HTC NOTHING OSCAL OUKITEL
+Nothing CMF Phone 2 Pro review
+MOTOROLA VIVO SHARP ITEL
+LENOVO MEIZU MICROMAX TCL
+ ALL BRANDS  RUMOR MILL  3.9 CMF PHONE 2 PRO USER REVIEWS COMMENTS (107)
+4. Software and performance
+POPULAR REVIEWS
+Nothing CMF Android
+Nothing OS on top of Android 15
+The CMF Phone 2 Pro embraces may sit under a sub-brand, but its UI is identical to the
+XIAOMI 17T PRO REVIEW
+Nothing phones. It runs on Nothing OS - specifically, version 3.2 layered over Android 15.
+Nothing commits to delivering up to three major Android updates to the CMF Phone 2 Pro.
+SONY XPERIA 1 VIII REVIEW
+XIAOMI 17T REVIEW
+ELECTRIC VEHICLES
+Nothing OS remains minimalist in terms of functionality and stays close to stock Android
+(AOSP), but it carries a distinct visual identity. The UI is heavily styled with Nothing's
+characteristic dot matrix font and design language. Users can access 24 custom widgets,
+covering essentials like clocks, calendars, contacts, and weather, all designed to maintain a
+cohesive aesthetic.
+1 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+2 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+3 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+4 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+5 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+6 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Mitsubishi shows the Eclipse
+Sportback, which looks very familiar Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+LHuOcMidE GravityN gEeWtSs hands-RfrEeVeIE WhSighway VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+driving, adaptive beam headlights
+through new update
+Apple introduces new CarPlay features
+with iOS 27, video apps to be allowed
+The notification shade and quick settings strike a balance between stock Android and
+Nothing's customizations. Starting with Nothing OS 2.5, the top two large quick toggles
+switched from circular to rounded-square designs, a change retained in version 3.2.
+Another recent feature is the custom icon pack, which sticks to a uniform monochrome style,
+in line with Nothing's design ethos.
+7 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+Nothing OS 3.2
+The CMF Phone 1 lacked always-on display support, but the Phone 2 Pro rectifies this. It is as
+basic as they come, though, with only a clock and a few notification icons, and no
+customization options.
+Always On display
+Nothing OS includes a Monochrome UI mode for users seeking an even more distinctive
+interface. While it ties into features like Do Not Disturb and Bedtime, it can be configured
+independently. Importantly, this is a visual effect only - screenshots and photos will still appear
+in full color.
+The Nothing X app provides seamless integration with several audio products, including the
+Ear (1), Ear (stick), Ear (2), CMF Buds, Neckband Pro, and Buds Pro.
+8 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+The CMF Phone 2 Pro is refreshingly clean of bloatware, provided you don't count the
+standard suite of Google apps. The only pre-installed apps from Nothing include Camera,
+Weather, and Recorder, all featuring a unified design. The Nothing X app was also preloaded
+on our review unit, but it can be downloaded from the Play Store if it's missing.
+Benchmarks and performance
+A Dimensity 7300 Pro chipset powers the Pro phone. It's a variant of the silicon that powered
+the first CMF Phone, but now with a 10% faster CPU and 5% faster GPU. The MediaTek
+Dimensity 7300 Pro is a 4nm, pretty modern part.
+It has four Cortex-A78 cores clocked at up to 2.5 GHz, and another four Cortex-A55 cores,
+working at up to 2.0 GHz. The onboard GPU is a Mali-G615 MC2. The CMF Phone 2 Pro
+comes with 8GB of RAM; you can get it with 128GB or 256GB of built-in storage that can be
+further expanded via the microSD slot. Our speed testing indicates that the phone uses UFS
+2.2 or perhaps 3.0 chips. Our review unit is the 8GB/256GB one.
+Let's start with CPU benchmarks and Geekbench first. The burst performance of the
+Dimensity 7300 Pro inside the CMF Phone 2 Pro is similar to that of the regular Dimensity
+7300 inside the CMF Phone 1. That's solid for this price range. Still, if you are after slightly
+bigger numbers, you can also find a Snapdragon 7s Gen 3 inside, the Redmi Note 14 Pro+
+9 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+and the heavy hitter in this price segment - the Poco X7 Pro with its Dimensity 8400 Ultra.
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+AnTuTu and 3DMark tend to paint a pretty similar picture. That is to say that the CMF Phone 2
+HOME NEWS REVIEWS VIDEOSPro is coFEmATpUeRtEiDtive in terPmHsO NoEf F pINeDrEfRormanceD, EbAuLSt won't beM tEoRpCHping any CcOhVaErRtAsG.E CONTACT
+GeekBench 6
+Multi-core Single-core
+666666666333333333111111111111111111
+Poco X7 Pro
+Dimensity 8400 Ultra 512GB, 12GB RAM
+Nothing 333333333333333333222222222777777777
+phone (3a)
+Pro Snapdragon 7s Gen 3 256GB, 12GB RAM
+Nothing
+333333333222222222777777777888888888
+phone (3a)
+Snapdragon 7s Gen 3 256GB, 12GB RAM
+Redmi Note
+333333333222222222333333333444444444
+14 Pro+
+Snapdragon 7s Gen 3 512GB, 12GB RAM
+Nothing
+333333333000000000999999999111111111
+Phone (1)
+Snapdragon 778G+ 256GB, 12GB RAM
+CMF Phone
+222222222999999999666666666333333333
+2 Pro
+Dimensity 7300 Pro 256GB, 8GB RAM
+Nothing CMF
+222222222999999999222222222000000000
+Phone 1
+Dimensity 7300 256GB, 8GB RAM
+
+EXPAND
+AnTuTu 10
+111111111555555555666666666888888888333333333333333333111111111
+Poco X7 Pro
+Dimensity 8400 Ultra 512GB, 12GB RAM 1220 x 2712 px
+Nothing 777777777777777777444444444000000000222222222333333333
+Phone (2a)
+Plus Dimensity 7350 Pro 256GB, 12GB RAM 1080 x 2412 px
+Redmi Note
+777777777555555555000000000222222222999999999222222222
+14 Pro+
+Snapdragon 7s Gen 3 512GB, 12GB RAM 1220 x 2712 px
+Nothing
+666666666888888888444444444555555555777777777444444444
+Phone (2a)
+Dimensity 7200 Pro 256GB, 12GB RAM 1080 x 2412 px
+Redmi Note
+666666666888888888444444444333333333222222222000000000
+14 Pro 5G
+Dimensity 7300 Ultra 256GB, 8GB RAM 1220 x 2712 px
+CMF Phone
+666666666888888888333333333333333333111111111888888888
+2 Pro
+Dimensity 7300 Pro 256GB, 8GB RAM 1080 x 2392 px
+10 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Poco X7
+Search
+666666666777777777777777777000000000999999999333333333 TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+Dimensity 7300 Ultra 512GB, 12GB RAM 1220 x 2712 px
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+
+EXPAND
+3DMark - Wild Life Extreme (2160p)
+333333333888888888888888888000000000
+Poco X7 Pro
+Dimensity 8400 Ultra Mali-G720 MC7 1220 x 2712 px
+Nothing
+111111111000000000666666666444444444
+phone (3a)
+Snapdragon 7s Gen 3 Adreno 720 1080 x 2412 px
+Nothing 111111111000000000666666666111111111
+phone (3a)
+Pro Snapdragon 7s Gen 3 Adreno 720 1080 x 2412 px
+Redmi Note
+111111111000000000444444444999999999
+14 Pro+
+Snapdragon 7s Gen 3 Adreno 710 1220 x 2712 px
+999999999111111111222222222
+Galaxy A36
+Snapdragon 6 Gen 3 Adreno 710 1080 x 2340 px
+CMF Phone
+888888888555555555555555555
+2 Pro
+Dimensity 7300 Pro Mali-G615 MC2 1080 x 2392 px
+Nothing CMF
+888888888555555555111111111
+Phone 1
+Dimensity 7300 Mali-G615 MC2 1080 x 2400 px
+
+EXPAND
+Thermal-throttling
+The CMF Phone 2 Pro handles heat very well. We put it through its paces and subjected it to
+quite a bit of torture testing. Even so, it managed to maintain a large chunk of its performance
+without exhibiting sudden and jarring dips.
+11 of 12 6/9/26, 7:19 PM
+Nothing CMF Phone 2 Pro review: Software and performance https://www.gsmarena.com/nothing_cmf_phone_2_pro-revi...
+Search 
+TIP US 2.1M 160K RSS EV MERCH LOG IN SIGN UP
+HOME NEWS REVIEWS VIDEOS FEATURED PHONE FINDER DEALS MERCH COVERAGE CONTACT
+Thermal-throttling
+The phone's surface never got too hot either, which is great.
+NEXT PAGE » 5. Camera, photo and video quality
+4. Software and performance
+Reviews  Nothing CMF Phone 2 Pro reviewPage 4
+CMF PHONE 2 PRO USER REVIEWS COMMENTS (107)
+Home News Reviews Compare Coverage Glossary FAQ RSS Youtube Instagram TikTok Facebook Twitter
+© 2000-2026 GSMArena.com Mobile version Android app Tools Contact us Merch store Privacy Terms of use
+12 of 12 6/9/26, 7:19 PM
